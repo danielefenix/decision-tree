@@ -1,0 +1,31 @@
+{
+  "name": "danielefenix-decision-tree",
+  "version": "1.0.0",
+  "description": "Playing around with the ID3 algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/main.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielefenix/decision-tree.git"
+  },
+  "keywords": [
+    "id3",
+    "decision",
+    "tree"
+  ],
+  "author": "Daniele Salvatore <daniele.salvatore@fao.org> (http://fenix.fao.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielefenix/decision-tree/issues"
+  },
+  "homepage": "https://github.com/danielefenix/decision-tree#readme",
+  "dependencies": {
+    "decision-tree": "0.3.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.5.3"
+  }
+}
