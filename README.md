@@ -2,7 +2,13 @@
 
 Just a example on a how to implement a decision tree with `decision-tree`.
 
-# Run test
+# Getting started
+
+Install dependencies
+```
+npm install
+```
+Run test
 
 ```
 npm test
